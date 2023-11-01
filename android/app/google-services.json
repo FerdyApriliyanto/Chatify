@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808147540014",
+    "project_id": "chatify-ferdy",
+    "storage_bucket": "chatify-ferdy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808147540014:android:aebe34f64b08fb249027bf",
+        "android_client_info": {
+          "package_name": "com.ferdyprojects.chatify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808147540014-68f0gd0cba0nbin2cm6mo4sgrq8rl3pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ferdyprojects.chatify",
+            "certificate_hash": "6f4af64016ba11931feb21f4c2ba6b8ccc91311a"
+          }
+        },
+        {
+          "client_id": "808147540014-fp2mf6847ik1jsg3eae8h6v1ahvakhq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Ia56w2A4U368pKr1jlhCudQyCj9R0Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808147540014-fp2mf6847ik1jsg3eae8h6v1ahvakhq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
